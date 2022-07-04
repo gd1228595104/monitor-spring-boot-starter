@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.dawn.boot.monitor.spring.boot.starter.config.InitMonitorConfig
